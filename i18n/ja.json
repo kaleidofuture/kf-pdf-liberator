@@ -21,5 +21,6 @@
   "extraction_method": "抽出方式",
   "method_auto": "自動検出（推奨）",
   "method_lattice": "罫線あり（格子状の表）",
-  "method_stream": "罫線なし（テキスト配置の表）"
+  "method_stream": "罫線なし（テキスト配置の表）",
+  "desktop_recommended": "このアプリはデスクトップでのご利用を推奨しています"
 }

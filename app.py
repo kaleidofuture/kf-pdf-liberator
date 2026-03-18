@@ -57,6 +57,7 @@ def df_to_excel_bytes(dfs: list[pd.DataFrame], sheet_names: list[str]) -> bytes:
 
 # --- Header ---
 render_header()
+st.info("💻 " + t("desktop_recommended"))
 
 # --- Sidebar: extraction method ---
 st.sidebar.markdown(f"### {t('extraction_method')}")

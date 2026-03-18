@@ -21,5 +21,6 @@
   "extraction_method": "Extraction Method",
   "method_auto": "Auto-detect (Recommended)",
   "method_lattice": "With borders (grid-style tables)",
-  "method_stream": "Without borders (text-aligned tables)"
+  "method_stream": "Without borders (text-aligned tables)",
+  "desktop_recommended": "This app is optimized for desktop use"
 }
