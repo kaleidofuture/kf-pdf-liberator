@@ -238,4 +238,4 @@ render_footer(libraries=[
     "pdfplumber — PDF table extraction and text extraction",
     "openpyxl — Excel file generation",
     "pandas — Data manipulation and CSV export",
-])
+], repo_name="kf-pdf-liberator")
