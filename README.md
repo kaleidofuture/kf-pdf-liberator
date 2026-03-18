@@ -1,3 +1,14 @@
+---
+title: kf-pdf-liberator
+emoji: 🚀
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+---
+
 # KF-PDFLiberator
 
 > Extract tables from PDFs into Excel/CSV — no more manual retyping.
